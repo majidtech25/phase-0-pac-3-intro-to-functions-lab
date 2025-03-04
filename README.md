@@ -380,5 +380,4 @@ reminder, go back to the [Complete Your First Software Engineering
 Assignment][complete-assignment] lesson to review the process.
 
 [complete-assignment]: https://github.com/learn-co-curriculum/phase-0-completing-assignments-codegrade
-
 [replit]: https://replit.com/languages/javascript
